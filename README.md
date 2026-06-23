@@ -15,6 +15,8 @@ The app lets you track expenses and incomes. Instead of using a database, it sav
 2. Open the `web/index.html` file in your browser. 
 3. Click "Actualizează" to see the balance update in real-time straight from the Java backend.
 
+This text is auto-generate with the help from Gemini.
+
 RO
 
 # 📊 Personal Finance Tracker
@@ -31,3 +33,5 @@ Aplicația te ajută să îți urmărești veniturile și cheltuielile. În loc 
 1. Pornește fișierul `Main.java` în IDE-ul tău. Asta va porni serverul local pe portul `7075`.
 2. Deschide fișierul `web/index.html` în browser. 
 3. Apasă pe butonul "Actualizează" pentru a vedea soldul cum se modifică în timp real, direct din backend-ul Java.
+
+Textul acesta este auto-generat cu ajutorul Gemini.
